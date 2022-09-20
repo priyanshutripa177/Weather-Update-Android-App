@@ -1,5 +1,5 @@
 # Weather Update Android App
-This is a weather cheacker Android App using java in android studio.
+This is a weather cheacker Android App using java in android studio using Volly Library.
 It has a smooth UI.
 # Features of App->
 
