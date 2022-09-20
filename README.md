@@ -1,5 +1,6 @@
 # Weather Update Android App
 This is a weather cheacker Android App using java in android studio.
+It has a smooth UI.
 # Features of App->
 
 It gives the current weather of Any place worldwide. It also gives information like Temp,humidity
