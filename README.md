@@ -1,6 +1,7 @@
 # Weather Update Android App
-This is a weather cheacker Android App using java in android studio using Volly Library.
+This is a weather cheacker Android App.
 It has a smooth UI.
+A complete Weather App using Android Studio, Java, Volley Library, and OpenWeatherMap API. This app takes any city name on earth, optional country code, and displays accurate, current weather information really fast. 
 # Features of App->
 
 It gives the current weather of Any place worldwide. It also gives information like Temp,humidity
